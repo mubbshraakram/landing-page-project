@@ -2,7 +2,7 @@
 
 A responsive landing page for **Beans Blossom**, a fictional small-batch coffee and tea house. Built for **Task 1 of the AppRo8 Frontend Development Internship** using only HTML, CSS and vanilla JavaScript (no frameworks or libraries).
 
-**Live demo:** _add your Vercel URL here after deploying_
+**Live demo:** https://landing-page-project-blush.vercel.app/
 
 ## Features
 
